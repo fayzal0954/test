@@ -5,7 +5,7 @@
   font-family: "Poppins", sans-serif;
 }
 body {
-  background-color: ##5c2c8f;
+  background-color: #5c2c8f;
 }
 .card {
   width: 640px;
@@ -34,7 +34,7 @@ body {
   left: 50.1%;
 }
 .inside {
-  background: linear-gradient(to right, #e7e7e7, #ffffff 30%);
+  background: linear-gradient(to right, #e7e7e7, #694694 30%);
   line-height: 3;
   padding: 0 20px;
   text-align: center;
